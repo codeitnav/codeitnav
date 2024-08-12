@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeitnav" alt="codeitnav" /></a> </p>
 
-- 🌱 I’m currently learning **react, web3**
+- 🌱 I’m currently learning **Full Stack Web Development along with Web3 and Blockchain**
 
 - 📝 I regularly write articles on [https://hashnode.com/@navya01](https://hashnode.com/@navya01)
 
