@@ -8,7 +8,7 @@ Hey there! I'm **Navya**, a passionate **Web Developer** with a knack for crafti
 <p align="left">
 <a href="https://linkedin.com/in/navya-srivastava-7365a1282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navya-srivastava-7365a1282" height="30" width="40" /></a>
 <a href="https://hashnode.com/@navya01" target="blank"><img align="center" src="https://img.icons8.com/color/48/hashnode.png" alt="@navya01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/navya_codes" target="blank"><img align="center" src="https://img.icons8.com/ios/50/codechef.png" alt="navya_codes" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/navya_codes" target="blank"><img align="center" src="https://img.icons8.com/carbon-copy/100/codechef.png" alt="navya_codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navya_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navya_codes" height="30" width="40" /></a>
 </p>
 
